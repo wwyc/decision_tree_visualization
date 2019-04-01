@@ -3,9 +3,14 @@ using graphviz to visualize decision tree in jupyter notebook
 
 requirements
 * need to install sk-learn and graphviz
+* to install packages from jupyter note book, you can use: 
+  !conda install --yes --prefix {sys.prefix} <package-name>
+or alternatively:
+  %%bash
+  pip install <package-name>
 
 basic
-* display tree
+* display tree only
 
 
 interactive
