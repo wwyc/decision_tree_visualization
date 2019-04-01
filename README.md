@@ -9,8 +9,8 @@ requirements
   
 or alternatively:
 
-  *%%bash*
-  *pip install <package-name>*
+```*%%bash*
+*pip install <package-name>*```
 
 basic
 * display tree only
