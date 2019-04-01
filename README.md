@@ -15,11 +15,11 @@ or alternatively:
 pip install <package-name>
 ```
 
-#### Basic
+#### I) Basic
 * display tree only
 
 
-#### Interactive
+#### II) Interactive
 * display tree with interactive drop downs
 
 
