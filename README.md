@@ -1,7 +1,7 @@
 # decision_tree_visualization
 using graphviz to visualize decision tree in jupyter notebook
 
-#### requirements
+#### Requirements
 * need to install sk-learn and graphviz
 * to install packages from jupyter note book, you can use: 
 ```
@@ -13,9 +13,9 @@ or alternatively:
 pip install <package-name>
 ```
 
-#### basic
+#### Basic
 * display tree only
 
 
-#### interactive
+#### Interactive
 * display tree with interactive drop downs
