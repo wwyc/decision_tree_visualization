@@ -21,3 +21,14 @@ pip install <package-name>
 
 #### Interactive
 * display tree with interactive drop downs
+
+
+#### Note:
+For random forest model objects, you will need to select individual trees to display.
+An estimator object will need to be chosen from the random forest model using *estimators_* and specifying the index.
+
+```
+model = RandomForestClassifier(<parameters>)
+model.fit(X_train, y_train)
+estimator = model.estimators_[0]
+```
